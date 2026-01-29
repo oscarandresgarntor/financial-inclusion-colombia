@@ -117,7 +117,7 @@ conda activate financial-inclusion
 
 1. **Clone the repository**:
 ```bash
-git clone https://github.com/[USERNAME]/financial-inclusion-colombia.git
+git clone https://github.com/oscarandresgarntor/financial-inclusion-colombia.git
 cd financial-inclusion-colombia
 ```
 
@@ -226,9 +226,9 @@ Master's Thesis, Universidad de los Andes.
 ## Author
 
 **Oscar Andrés Garnica Toro**
-- Email: [your-email@domain.com]
-- LinkedIn: [your-linkedin-profile]
-- GitHub: [@yourusername](https://github.com/yourusername)
+- Email: oagtoscarg@gmail.com
+- LinkedIn: [linkedin.com/in/óscar-andrés-garnica-toro](https://www.linkedin.com/in/óscar-andrés-garnica-toro-78b41013b)
+- GitHub: [@oscarandresgarntor](https://github.com/oscarandresgarntor)
 
 Master in Economics (PEG), Universidad de los Andes, Colombia
 
