@@ -1,0 +1,52 @@
+# Data files (except synthetic)
+*.dta
+!data/synthetic/*.dta
+*.csv
+!data/synthetic/*.csv
+*.xlsx
+!data/dictionaries/*.xlsx
+
+# Stata files
+*.log
+*.smcl
+*.gph
+*.stpr
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+*.so
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Large files
+*.zip
+*.gz
+*.tar
+*.rar
+
+# Temporary files
+*.tmp
+temp/
+tmp/
+
+# Personal notes
+notes.txt
+todo.txt
