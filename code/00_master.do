@@ -3,7 +3,7 @@
 
 	Title: Promoting Financial Inclusion: Do Unconditional E-Money Transfers Work?
 	Author: Oscar Andrés Garnica Toro
-	Date: January 2024
+	Date: October 2023
 
 	This master script runs the complete analysis pipeline for evaluating
 	Colombia's Ingreso Solidario cash transfer program impact on financial
