@@ -218,7 +218,7 @@ Results robust across all specifications.
 If you use this code or methodology in your research, please cite:
 
 ```
-Garnica, Oscar Andrés (2023). "Promoting Financial Inclusion: Do Unconditional
+Kiuhan, Samir and Garnica, Oscar Andrés (2023). "Promoting Financial Inclusion: Do Unconditional
 E-Money Transfers Work? Evidence from Colombia's Ingreso Solidario Program."
 Master's Thesis, Universidad de los Andes.
 ```
@@ -239,7 +239,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Acknowledgments
 
 - **Data providers**: MOVii (transaction data), DNP - Departamento Nacional de Planeación (eligibility data)
-- **Thesis advisors**: [Advisor names]
+- **Thesis advisors**: Hernando Zuleta
 - **Institution**: Universidad de los Andes, Facultad de Economía
 
 ## Related Resources
